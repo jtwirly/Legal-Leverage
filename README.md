@@ -54,6 +54,8 @@ zoning," "climate change causing emissions") and the application:
   relevant to the topic (via OpenParliament.ca and LEGISinfo), each flagged
   with its current stage (e.g. "Second Reading," "In House of Commons") and
   a one-line note on how it bears on the recommendation.
+- **Legislation and Statutory levers panel** — pulls relevant legislation
+- **Case law** — pulls relevant case law
 - **Built-in methodology guides** — in-app explainers for "What is System
   Dynamics in Law?", "How to Create the System Dynamics Model" (a 4-step
   protocol: define system boundaries → map causal influences and polarities
@@ -65,21 +67,16 @@ zoning," "climate change causing emissions") and the application:
 
 ## Data sources
 
-The application states every variable, causal link, and statutory lever is
-grounded in:
+The application leverages the following data sources:
 
 - **Access to Algorithmic Justice (A2AJ)** — Access to Algorithmic
   Justice jurisprudence, covering the Supreme Court of Canada, Federal Court
-  of Appeal, and provincial courts.
+  of Appeal, and provincial courts. https://a2aj.ca/data/
 - **OpenParliament.ca** — active federal legislation, House of
   Commons and Senate bills, committee testimony, second-reading statuses,
-  and statutory amendment records.
-- **Doctrinal frameworks & systems theory** — Donella Meadows' Twelve
-  Leverage Points hierarchy, *Vavilov* administrative-law standards, and
-  Charter ss. 1/7/8 frameworks.
-
-Also used in development: **tldraw** for whiteboarding, and **SD-AI**, a
-collection of open-source system dynamics modeling tools.
+  and statutory amendment records. http://openparliament.ca/
+- **SD-AI**, a collection of open-source system dynamics modeling tools. https://ub-iad.github.io/sd-ai/#/
+- **tldraw** for whiteboarding. https://www.tldraw.com/
 
 ## Known limitations
 
