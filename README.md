@@ -103,17 +103,16 @@ The application leverages the following data sources:
 
 ## Screenshots
 
-<img width="991" height="639" alt="Screenshot 2026-09-04 at 6 58 18 PM" src="https://github.com/user-attachments/assets/b2542667-7e24-4ab6-aae9-2444b372e6b7" />
-<img width="1014" height="625" alt="Screenshot 2026-09-04 at 6 58 27 PM" src="https://github.com/user-attachments/assets/1cea32ec-5204-4a24-b873-29a4bb131ec1" />
-<img width="1000" height="638" alt="Screenshot 2026-09-04 at 6 58 39 PM" src="https://github.com/user-attachments/assets/36269205-9ba4-4a2e-a155-92e16633f375" />
-<img width="978" height="429" alt="Screenshot 2026-09-04 at 6 58 55 PM" src="https://github.com/user-attachments/assets/f969013d-13c4-48b5-9b59-d1211ea186b2" />
-<img width="982" height="342" alt="Screenshot 2026-09-04 at 6 59 10 PM" src="https://github.com/user-attachments/assets/0c517e6b-c900-48a4-8291-d9f3e91ec2da" />
-<img width="995" height="410" alt="Screenshot 2026-09-04 at 6 59 17 PM" src="https://github.com/user-attachments/assets/2e110b13-a205-4329-b4bc-ac39d3d52964" />
-<img width="989" height="418" alt="Screenshot 2026-09-04 at 6 59 33 PM" src="https://github.com/user-attachments/assets/bbda458e-8dd6-4f69-9261-7386b963cff5" />
-<img width="1005" height="612" alt="Screenshot 2026-09-04 at 6 59 44 PM" src="https://github.com/user-attachments/assets/ac211bb4-32ad-4105-8d11-a2ccefa524f7" />
-<img width="993" height="716" alt="Screenshot 2026-09-04 at 7 00 13 PM" src="https://github.com/user-attachments/assets/260f7d51-020f-4548-a609-ef0ca32737e3" />
-<img width="1000" height="750" alt="Screenshot 2026-09-04 at 7 00 38 PM" src="https://github.com/user-attachments/assets/6cabdc6c-b372-45aa-8a89-6bda051b946b" />
-<img width="986" height="744" alt="Screenshot 2026-09-04 at 7 01 04 PM" src="https://github.com/user-attachments/assets/9f0d4d7c-306f-4197-9cfc-318250ab3ead" />
-<img width="987" height="766" alt="Screenshot 2026-09-04 at 7 01 26 PM" src="https://github.com/user-attachments/assets/5b6c27cd-9d1f-46ce-8b8d-e91e91393b8c" />
-
-
+<img width="989" height="626" alt="Screenshot 2026-09-04 at 6 58 05 PM" src="https://github.com/user-attachments/assets/9e7dc757-0e07-4b93-9577-068e3f8b6b70" />
+<img width="991" height="639" alt="Screenshot 2026-09-04 at 6 58 18 PM" src="https://github.com/user-attachments/assets/50443992-99c9-4bd3-92db-ecac0027e5d2" />
+<img width="1014" height="625" alt="Screenshot 2026-09-04 at 6 58 27 PM" src="https://github.com/user-attachments/assets/49c37631-e5e6-45e7-b34e-19d15cdbb22f" />
+<img width="1000" height="638" alt="Screenshot 2026-09-04 at 6 58 39 PM" src="https://github.com/user-attachments/assets/1e82b14c-e9f2-43b6-b784-90c07c55933b" />
+<img width="978" height="429" alt="Screenshot 2026-09-04 at 6 58 55 PM" src="https://github.com/user-attachments/assets/b4c581e4-c299-4bd8-ad1b-0d2a4ad3e7d8" />
+<img width="982" height="342" alt="Screenshot 2026-09-04 at 6 59 10 PM" src="https://github.com/user-attachments/assets/1efdac46-cc4f-40ea-b789-144ff723ebe6" />
+<img width="995" height="410" alt="Screenshot 2026-09-04 at 6 59 17 PM" src="https://github.com/user-attachments/assets/9a9f6b33-adbc-4495-9c9e-e1196c977e93" />
+<img width="989" height="418" alt="Screenshot 2026-09-04 at 6 59 33 PM" src="https://github.com/user-attachments/assets/8d9705e5-412f-4baa-8ab8-5f4be33cc113" />
+<img width="1005" height="612" alt="Screenshot 2026-09-04 at 6 59 44 PM" src="https://github.com/user-attachments/assets/913a5dd8-becd-40e8-b915-9f73732ec08b" />
+<img width="993" height="716" alt="Screenshot 2026-09-04 at 7 00 13 PM" src="https://github.com/user-attachments/assets/c9b7c942-e743-4d62-afa2-adc7be076355" />
+<img width="1000" height="750" alt="Screenshot 2026-09-04 at 7 00 38 PM" src="https://github.com/user-attachments/assets/b7308975-7a61-4b20-855b-8ad5c60dd012" />
+<img width="986" height="744" alt="Screenshot 2026-09-04 at 7 01 04 PM" src="https://github.com/user-attachments/assets/d6d8ad60-b7ed-4045-bb72-5b9696085a88" />
+<img width="987" height="766" alt="Screenshot 2026-09-04 at 7 01 26 PM" src="https://github.com/user-attachments/assets/7f4a8600-8e8e-476a-9722-7e3c47779532" />
