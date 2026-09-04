@@ -1,5 +1,4 @@
 # Legal-Leverage
-Explore where legal systems can change - and why.
 
 **Explore where legal systems can change — and why.**
 
