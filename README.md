@@ -100,3 +100,20 @@ The application leverages the following data sources:
 - Improve developmental transparency so the architectural theory behind
   each leverage point is more clearly evidence-based and auditable by a
   user who isn't already familiar with system dynamics.
+
+## Screenshots
+
+<img width="987" height="766" alt="Screenshot 2026-09-04 at 7 01 26 PM" src="https://github.com/user-attachments/assets/cff82eeb-133f-41ed-b4f6-f67df6a05526" />
+<img width="986" height="744" alt="Screenshot 2026-09-04 at 7 01 04 PM" src="https://github.com/user-attachments/assets/343be9d3-f541-4e89-8894-8bdc6e329e9f" />
+<img width="1000" height="750" alt="Screenshot 2026-09-04 at 7 00 38 PM" src="https://github.com/user-attachments/assets/39c3e7a4-447c-4a1f-ac81-642b43cdcc9a" />
+<img width="993" height="716" alt="Screenshot 2026-09-04 at 7 00 13 PM" src="https://github.com/user-attachments/assets/dabaa866-f005-4899-ac05-332c1786a5f0" />
+<img width="1005" height="612" alt="Screenshot 2026-09-04 at 6 59 44 PM" src="https://github.com/user-attachments/assets/e928684a-5007-46ab-95ea-6e24261b0f78" />
+<img width="989" height="418" alt="Screenshot 2026-09-04 at 6 59 33 PM" src="https://github.com/user-attachments/assets/61f0f8b3-08d2-43cc-aafb-afa26e3428f8" />
+<img width="995" height="410" alt="Screenshot 2026-09-04 at 6 59 17 PM" src="https://github.com/user-attachments/assets/0e921bd0-d969-4e05-b9e2-69f8888653c6" />
+<img width="982" height="342" alt="Screenshot 2026-09-04 at 6 59 10 PM" src="https://github.com/user-attachments/assets/5d6e67fb-aec9-4ad8-b22d-2935859d17ba" />
+<img width="978" height="429" alt="Screenshot 2026-09-04 at 6 58 55 PM" src="https://github.com/user-attachments/assets/04e50e5f-ea30-4a18-a976-9f89db7cb938" />
+<img width="1000" height="638" alt="Screenshot 2026-09-04 at 6 58 39 PM" src="https://github.com/user-attachments/assets/a540ccbd-abd6-4a9a-8c00-926a896eb02f" />
+<img width="1014" height="625" alt="Screenshot 2026-09-04 at 6 58 27 PM" src="https://github.com/user-attachments/assets/57ee0150-5fd0-4e66-a423-92f2a73cf520" />
+<img width="991" height="639" alt="Screenshot 2026-09-04 at 6 58 18 PM" src="https://github.com/user-attachments/assets/115e6f8c-07b8-4bc5-8036-c40af0e56afc" />
+<img width="989" height="626" alt="Screenshot 2026-09-04 at 6 58 05 PM" src="https://github.com/user-attachments/assets/b85eca80-b7e3-45da-b75a-6d8d00426c0e" />
+
